@@ -26,7 +26,8 @@
 1. Flush cutter
 2. Soldering iron/station and Solder
 3. Tweezers
-4. Isopropyl Alcohol (optional, for cleaning solder-flux residue)
+4. Philips screwdriver
+5. Isopropyl Alcohol (optional, for cleaning solder-flux residue)
 
 **NOTE: If you got your PCB partly built from me, you can move on to step 2**
 
