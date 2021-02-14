@@ -100,12 +100,16 @@ There are 2 ways to go about soldering the ProMicro. I would encourage you to go
 	     Now, if this ProMicro breaks for any reason you can just pull it out (with some force), put a new one in and solder it the same way. No need for all the de-soldering mess.
 
 
-	   - **Method 2**: Easy to solder. Hard to desolder if ProMicro needs to be replaced for any reason (it can break).
-		  - Use these headers
-	        // 1 image here showing the headers
-	      - Solder them to the ProMicro first
-	        // 1 image here side-ish view of promicro
-	      - Solder this to the PCB.
+   - **Method 2**: Easy to solder. Hard to desolder if ProMicro needs to be replaced for any reason (it can break).
+      - Use these headers (also included in the components bag)
+
+	     <img src="build-guide-img/promicro/6-header.jpg" height="100px">
+
+	  - Solder them to the ProMicro first
+
+	     <img src="build-guide-img/promicro/7-soldered.jpg" height="200px">
+
+	  - Solder this to the PCB.
 
 4. **Indicator LED (optional)**
    - Polarity matters here. To help us, the 2 legs of the LED have different length. The longer leg goes through the round solder pad, while the shorter one goes through the square solder pad. Refer to the image below.
