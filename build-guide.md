@@ -1,5 +1,4 @@
 # 0-Sixty: Build Guide
-----
 
 ## Required Items
 
@@ -8,7 +7,7 @@
 2. Bottom PCB (Baseplate)
 
 ### Component set
-1. ProMicro (pre-flashed with VIA supported firmware)
+1. ProMicro
 2. Headers for ProMicro
 3. 60 1N4148 Diodes
 4. 330ohm Resistor
@@ -143,15 +142,15 @@ There are 2 ways to go about soldering the ProMicro. I would encourage you to go
 
    - **Testing**
 
-	1. Connect your board back to the computer. Open up VIA ([download from here](https://github.com/the-via/releases/releases)). Wait for the board to show up as '*0-SIXTY BY VEN0MTR0N*'. Open up '*KEY TESTER*' and toggle '*Test Matrix*' on.
+      1. Connect your board back to the computer. Open up VIA ([download from here](https://github.com/the-via/releases/releases)). Wait for the board to show up as '*0-SIXTY BY VEN0MTR0N*'. Open up '*KEY TESTER*' and toggle '*Test Matrix*' on.
 
-	   <img src="build-guide-img/test/1-via.png" height="300px">
+         <img src="build-guide-img/test/1-via.png" height="300px">
 
-	2. Use something conductive--a piece of wire or diode legs or metal tweezers to manually bridge the 2 silver contacts on every switch's footprint. When you do so, the corresponding box in VIA should change color from grey to pink. Do this for all switches.
+      2. Use something conductive--a piece of wire or diode legs or metal tweezers to manually bridge the 2 silver contacts on every switch's footprint. When you do so, the corresponding box in VIA should change color from grey to pink. Do this for all switches.
 
 	   <img src="build-guide-img/test/2-tweezers.jpg" height="300px">
 
-	If you were able to do this for all switches, you can be sure that the PCB works correctly, and move ahead.
+	   If you were able to do this for all switches, you can be sure that the PCB works correctly, and move ahead.
 
 
 ## 3. Top-screws, Standoffs and Stabilizer(s)
