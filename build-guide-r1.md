@@ -1,4 +1,4 @@
-# 0-Sixty: Build Guide
+# 0-Sixty R1: Build Guide
 
 ## Required Items
 
